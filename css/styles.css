@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: #aabcd1;
+    color: whitesmoke;
+}
+a{
+    display: block;
+    justify-content: space-between;
+    color: black;
+}
